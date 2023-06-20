@@ -16,9 +16,9 @@
     </a>
 
 - 🎓 Certificates and qualifications:
-<p>
-<img src="IMAGES/HTML-1.jpeg" width="30%">
-<img src="IMAGES/HTML-2.jpeg" width="30%">
-<img src="IMAGES/JS.jpeg" width="30%">
-</p>
+    <p>
+    <img src="IMAGES/HTML-1.jpeg" width="30%">
+    <img src="IMAGES/HTML-2.jpeg" width="30%">
+    <img src="IMAGES/JS.jpeg" width="30%">
+    </p>
 
