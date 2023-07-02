@@ -6,7 +6,7 @@
 - 🔭 Junior Frontend Developer
 - [Download my CV](/cv/nika_buzynska_cv.pdf)
 
-- my new project (I've built this one in 7 days, using Mobile first approach)
+- Now I'm working on new project (I've built this one in 7 days, using Mobile first approach)
 <a href="https://nikabuzynska.github.io/Drink2Go/">
 <img src="IMAGES/drinks2go.jpeg" width="60%">
 </a>
