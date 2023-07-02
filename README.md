@@ -1,10 +1,18 @@
-### Hi there 👋
+### Hi there 👋 I'm Nika
 
 
 <!-- **NikaBuzynska/NikaBuzynska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 - 🔭 Junior Frontend Developer
-- 📈 Projects: [Mishka](https://nikabuzynska.github.io/2221685-mishka-27/), [Kekstagram](https://nikabuzynska.github.io/2221685-kekstagram-28/) and [Sedona](https://nikabuzynska.github.io/2221685-sedona-35/) 
+- [Download my CV](/cv/nika_buzynska_cv)
+
+- my new project (I've built this one in 7 days, using Mobile first approach)
+<a href="https://nikabuzynska.github.io/Drink2Go/">
+<img src="IMAGES/drinks2go.jpeg">
+</a>
+
+- 📈 Projects: [Mishka](https://nikabuzynska.github.io/2221685-mishka-27/), [Kekstagram](https://nikabuzynska.github.io/2221685-kekstagram-28/) and [Sedona](https://nikabuzynska.github.io/2221685-sedona-35/)
+
 <a href="https://nikabuzynska.github.io/2221685-mishka-27/">
         <img src="IMAGES/mishka.jpeg" alt="Mishka" width="33%">
     </a>
