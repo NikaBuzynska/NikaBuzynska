@@ -4,7 +4,7 @@
 <!-- **NikaBuzynska/NikaBuzynska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 - 🔭 Junior Frontend Developer
-- [Download my CV](/cv/nika_buzynska_cv)
+- [Download my CV](/cv/nika_buzynska_cv.pdf)
 
 - my new project (I've built this one in 7 days, using Mobile first approach)
 <a href="https://nikabuzynska.github.io/Drink2Go/">
