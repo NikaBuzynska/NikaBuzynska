@@ -8,7 +8,7 @@
 
 - my new project (I've built this one in 7 days, using Mobile first approach)
 <a href="https://nikabuzynska.github.io/Drink2Go/">
-<img src="IMAGES/drinks2go.jpeg">
+<img src="IMAGES/drinks2go.jpeg" width="60%">
 </a>
 
 - 📈 Projects: [Mishka](https://nikabuzynska.github.io/2221685-mishka-27/), [Kekstagram](https://nikabuzynska.github.io/2221685-kekstagram-28/) and [Sedona](https://nikabuzynska.github.io/2221685-sedona-35/)
